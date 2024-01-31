@@ -44,7 +44,7 @@ h6 {
 }
 h7{
     color:black;
-    font-family:  Bahnschrift condensed;
+    font-family: Bahnschrift condensed;
     font-size: x-large;
     font-weight: bold;
     margin: auto;
@@ -109,8 +109,9 @@ footer {
     width:80%;
     margin: auto;
     text-align: center;
+    font-weight: bolder;
     background-color: silver;
-    font-family: fantasy;
+    font-family: Bahnschrift condensed;
     padding: 10px;
     max-width:100% ;
     border-radius:50% ;
