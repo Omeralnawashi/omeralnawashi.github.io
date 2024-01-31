@@ -12,41 +12,41 @@ h1 {
 }
 h2{
     color:black;
-    font-family: fantasy;
+    font-family: Bahnschrift condensed;
+    font-weight: bold;
     font-size: x-large;
-   
     margin: auto;
     text-align:left;
 }
 h3{
     color:black;
-    font-family: fantasy;
+    font-family:  Bahnschrift condensed;
     font-size: x-large;
-    
+    font-weight: bold;
     margin: auto;
     text-align:left;
 }
 h4{
     color:black;
-    font-family: fantasy;
+    font-family:  Bahnschrift condensed;
     font-size: x-large;
-    
+    font-weight: bold;
     margin: auto;
     text-align:left;
 }
 h5{
     color:black;
-    font-family: fantasy;
+    font-family:  Bahnschrift condensed;
     font-size: x-large;
-    
+    font-weight: bold;
     margin: auto;
     text-align:left;
 }
 h6{
     color:black;
-    font-family: fantasy;
+    font-family:  Bahnschrift condensed;
     font-size: x-large;
-    
+    font-weight: bold;
     margin: auto;
     text-align:left;
 }
@@ -91,7 +91,7 @@ div {
     font-family: fantasy;
     font-size: medium;
     text-decoration: none;
-    background-color: grey;
+    background-color: lightgray;
     width:99%;
     justify-content: center;
     text-align: center;
@@ -112,8 +112,8 @@ footer{
     background-color: silver;
     font-family: fantasy;
     padding: 10px;
-    border-radius: 48%;
-    max-width: 100%;
+    max-width:100% ;
+    border-radius:50% ;
 }
 #navbar {
     text-align: center;
