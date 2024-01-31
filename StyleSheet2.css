@@ -1,0 +1,172 @@
+﻿#style.css
+body{
+    background-color: silver;
+}
+h1 {
+    color: black;
+    font-family: fantasy;
+    font-size: xx-large;
+    font-weight: bold;
+    margin: auto;
+    text-align: center;
+}
+h2{
+    color:black;
+    font-family: fantasy;
+    font-size: x-large;
+    font-weight: bold;
+    margin: auto;
+    text-align:left;
+}
+h3{
+    color:black;
+    font-family: fantasy;
+    font-size: x-large;
+    font-weight: bold;
+    margin: auto;
+    text-align:left;
+}
+h4{
+    color:black;
+    font-family: fantasy;
+    font-size: x-large;
+    font-weight: bold;
+    margin: auto;
+    text-align:left;
+}
+h5{
+    color:black;
+    font-family: fantasy;
+    font-size: x-large;
+    font-weight: bold;
+    margin: auto;
+    text-align:left;
+}
+h6{
+    color:black;
+    font-family: fantasy;
+    font-size: x-large;
+    font-weight: bold;
+    margin: auto;
+    text-align:left;
+}
+#a {
+    color: black;
+    font-family: agency fb;
+    font-size: x-large;
+    text-align: left;
+}
+#b {
+    color: black;
+    font-family: agency fb;
+    font-size: x-large;
+    text-align:left;
+}
+#c {
+    color: black;
+    font-family: agency fb;
+    font-size: x-large;
+    text-align:left;
+}
+#d{
+    color: black;
+    font-family: agency fb;
+    font-size: x-large;
+    text-align:left;
+}
+#e{
+    color: black;
+    font-family: agency fb;
+    font-size: x-large;
+    text-align:left;
+}
+#f{
+    color: black;
+    font-family: agency fb;
+    font-size: x-large;
+    text-align:left;
+}
+div {
+    color: black ;
+    font-family: fantasy;
+    font-size: medium;
+    text-decoration: none;
+    background-color: grey;
+    width:99%;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    padding: 10px;
+    border-radius: 5%;
+    max-width: 100%;
+
+}
+#body-container{
+    font-family: agency fb;
+    font-size: medium;
+}
+footer{
+    width:80%;
+    margin: auto;
+    text-align: center;
+    background-color: silver;
+    font-family: fantasy;
+    padding: 10px;
+    border-radius: 48%;
+    max-width: 100%;
+}
+#navbar {
+    text-align: center;
+    font-family: agency fb;
+    list-style-type:none;
+    position: fixed;
+    display: flex;
+    justify-content:center;
+    padding-left:  300px;
+    padding-right: 200px;
+    border-radius: 35%;
+    max-width: 100%;
+}
+#navbar li a.selected {
+    border-bottom: 2px solid blue;
+}
+#navbar_flex li{
+        margin-right:auto;
+        display:inline-block;
+        border-radius: 50%;
+        max-width: 100%;
+}
+ul{
+        list-style-type: none;
+        display: flex;
+        justify-content: space-around;
+        background-color: silver;
+        padding:10px;
+        border-radius: 50%;
+        max-width: 100%;
+}
+nav li {
+        padding-left: 82px;
+        display: inline;
+        text-align: center;   
+         
+}
+nav a {
+            text-decoration: none;
+            font-family: Roboto;
+            font-size: 22px;
+            color: black;
+            font-family: agency fb;
+            position: relative;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 20%;
+    justify-content: center;
+    text-align: center;
+    
+}
+a:hover {
+text-decoration:underline;
+}
