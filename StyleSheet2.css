@@ -26,14 +26,6 @@ h3 {
     margin: auto;
     text-align:left;
 }
-h4 {
-    color:black;
-    font-family:  Bahnschrift condensed;
-    font-size: x-large;
-    font-weight: bold;
-    margin: auto;
-    text-align:left;
-}
 h5 {
     color:black;
     font-family:  Bahnschrift condensed;
@@ -89,12 +81,6 @@ h7{
     text-align:left;
 }
 #f {
-    color: black;
-    font-family: agency fb;
-    font-size: x-large;
-    text-align:left;
-}
-#g {
     color: black;
     font-family: agency fb;
     font-size: x-large;
