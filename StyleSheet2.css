@@ -1,5 +1,5 @@
 ﻿#style.css
-body{
+body {
     background-color: silver;
 }
 h1 {
@@ -10,7 +10,7 @@ h1 {
     margin: auto;
     text-align: center;
 }
-h2{
+h2 {
     color:black;
     font-family: Bahnschrift condensed;
     font-weight: bold;
@@ -18,7 +18,7 @@ h2{
     margin: auto;
     text-align:left;
 }
-h3{
+h3 {
     color:black;
     font-family:  Bahnschrift condensed;
     font-size: x-large;
@@ -26,7 +26,7 @@ h3{
     margin: auto;
     text-align:left;
 }
-h4{
+h4 {
     color:black;
     font-family:  Bahnschrift condensed;
     font-size: x-large;
@@ -34,7 +34,7 @@ h4{
     margin: auto;
     text-align:left;
 }
-h5{
+h5 {
     color:black;
     font-family:  Bahnschrift condensed;
     font-size: x-large;
@@ -42,13 +42,21 @@ h5{
     margin: auto;
     text-align:left;
 }
-h6{
+h6 {
     color:black;
     font-family:  Bahnschrift condensed;
     font-size: x-large;
     font-weight: bold;
     margin: auto;
     text-align:left;
+}
+h7{
+    color:black;
+    font-family:  Bahnschrift condensed;
+    font-size: x-large;
+    font-weight: bold;
+    margin: auto;
+    text-align:end;
 }
 #a {
     color: black;
@@ -68,19 +76,25 @@ h6{
     font-size: x-large;
     text-align:left;
 }
-#d{
+#d {
     color: black;
     font-family: agency fb;
     font-size: x-large;
     text-align:left;
 }
-#e{
+#e {
     color: black;
     font-family: agency fb;
     font-size: x-large;
     text-align:left;
 }
-#f{
+#f {
+    color: black;
+    font-family: agency fb;
+    font-size: x-large;
+    text-align:left;
+}
+#g {
     color: black;
     font-family: agency fb;
     font-size: x-large;
@@ -101,11 +115,11 @@ div {
     max-width: 100%;
 
 }
-#body-container{
+#body-container {
     font-family: agency fb;
     font-size: medium;
 }
-footer{
+footer {
     width:80%;
     margin: auto;
     text-align: center;
@@ -130,13 +144,13 @@ footer{
 #navbar li a.selected {
     border-bottom: 2px solid blue;
 }
-#navbar_flex li{
+#navbar_flex li {
         margin-right:auto;
         display:inline-block;
         border-radius: 50%;
         max-width: 100%;
 }
-ul{
+ul {
         list-style-type: none;
         display: flex;
         justify-content: space-around;
@@ -155,7 +169,7 @@ nav a {
             text-decoration: none;
             font-family: Roboto;
             font-size: 22px;
-            color: black;
+            color: dimgray;
             font-family: agency fb;
             position: relative;
 }
@@ -169,4 +183,29 @@ img {
 }
 a:hover {
 text-decoration:underline;
+color:black;
+}
+.instagram-icon {
+    color:dimgray;
+    justify-content: space-around;
+}
+.instagram-icon:hover {
+color:black;
+text-decoration:underline;
+}
+.twitter-icon {
+    color:dimgray;
+    justify-content: space-around;
+}
+.twitter-icon:hover {
+    color:black;
+    text-decoration:underline;
+}
+.linkedin-icon{
+    color:dimgray;
+    justify-content: space-around;
+}
+.linkedin-icon:hover{
+    color:black;
+    text-decoration:underline;
 }
