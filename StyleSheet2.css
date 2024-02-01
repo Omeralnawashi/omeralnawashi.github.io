@@ -145,6 +145,8 @@ ul {
         padding:10px;
         border-radius: 50%;
         max-width: 100%;
+        padding-left: 200px;
+        padding-right: 200px;
 }
 nav li {
         padding-left: 82px;
